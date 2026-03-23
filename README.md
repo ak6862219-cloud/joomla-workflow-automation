@@ -30,6 +30,8 @@ I propose a system where:
 - Day 5 → Published  
 
 ---
+## Why This Project Matters
+This project will reduce manual intervention in content publishing and improve efficiency in Joomla workflows.
 
 ##  System Design
 
@@ -40,6 +42,10 @@ I propose a system where:
 - Execution Engine (applies transitions)
 
 ---
+## 📊 Current Status
+- ✅ Repository initialized  
+- ✅ Problem understanding completed  
+- ⏳ Prototype in progress
 
 ##  Workflow Execution Flow
 
