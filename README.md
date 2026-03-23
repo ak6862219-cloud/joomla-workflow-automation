@@ -72,7 +72,7 @@ This repository includes a basic prototype:
 
 ## Skills & Technologies
 
-- PHP (OOP)
+- PHP 
 - Joomla CMS Architecture
 - MySQL
 - Scheduled Tasks / Cron Jobs
